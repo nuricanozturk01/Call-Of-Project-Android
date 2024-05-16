@@ -1,0 +1,241 @@
+<resources>
+    <string name="app_name">Call-of-Project-Android</string>
+    <string name="local_datetime_formatter">dd/MM/yyyy kk:mm:ss</string>
+    <string name="local_date_formatter">dd/MM/yyyy</string>
+    <string name="shared_pref_name">shared_pref</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="default_image_description">image</string>
+    <string name="text_firstName">First Name</string>
+    <string name="text_middleName">Middle Name</string>
+    <string name="text_lastName">Last Name</string>
+    <string name="text_email">Email</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="date_format">dd/MM/yyyy</string>
+    <string name="text_birthDate">Birth Date</string>
+    <string name="text_confirmPassword">Confirm Password</string>
+    <string name="text_successRegister">Register operation is successful! Please check your email.</string>
+    <string name="text_invalidOperation">Invalid Operation</string>
+    <string name="text_ok">Ok</string>
+    <string name="text_projectStatus">Project Status</string>
+    <string name="text_feedbackTimeRange">Feedback Time Range</string>
+    <string name="text_degree">Degree</string>
+    <string name="text_projectLevel">Project Level</string>
+    <string name="text_professionLevels">Profession Level</string>
+    <string name="text_interviewType">Interview Type</string>
+    <string name="text_applyFilters">Apply Filters</string>
+    <string name="btn_startDate">Start Date</string>
+    <string name="btn_completionDate">Completion Date</string>
+    <string name="msg_loginSuccess">Welcome to Call-of-Project</string>
+    <string name="msg_loginInvalidUsernameOrPassword">Invalid username or password</string>
+    <string name="msg_project_discovery_fail">Fail Project Discovery</string>
+    <string name="msg_notOwnerOfProject">You are not owner or participant of this project!</string>
+    <string name="title_upsert_education">Upsert Education</string>
+    <string name="btn_save">Save</string>
+    <string name="title_graduateStatus">Finish/Continue</string>
+    <string name="title_gpa">GPA:</string>
+    <string name="title_departmentName">Department Name</string>
+    <string name="title_schoolName">School Name</string>
+    <string name="title_upsert_experience">Upsert Experience</string>
+    <string name="title_companyName">Company</string>
+    <string name="title_positionName">Position</string>
+    <string name="title_description">Description:</string>
+    <string name="title_websiteLink">Website Link</string>
+    <string name="title_upsert_course">Upsert Course</string>
+    <string name="title_courseName">Course Name</string>
+    <string name="title_upsert_link">Upsert Link</string>
+    <string name="title_aboutMe">About Me</string>
+    <string name="title_projectSummary">Project Summary</string>
+    <string name="title_projectAim">Project Aim</string>
+    <string name="title_projectTechRequirements">Technical Requirements</string>
+    <string name="title_projectSpecRequirements">Specific Requirements</string>
+    <string name="title_projectDateInformation">Project Date Information</string>
+    <string name="title_projectStartDate">Start Date</string>
+    <string name="title_projectExpectedCompletionDate">Expected Completion Date</string>
+    <string name="title_projectApplicationDeadline">Application Deadline</string>
+    <string name="title_projectFeedbackTimeRange">Feedback Time Range</string>
+    <string name="title_projectInformation">Project Information</string>
+    <string name="title_projectMaxParticipant">Max Participant</string>
+    <string name="title_projectProfessionLevel">Profession Level</string>
+    <string name="title_projectLevel">Project Level</string>
+    <string name="title_projectInterviewType">Interview Type</string>
+    <string name="title_projectStatus">Project Status</string>
+    <string name="title_projectTags">Tags</string>
+    <string name="title_projectDescription">Project Description</string>
+    <string name="title_projectAdminNotes">Admin Note</string>
+    <string name="title_projectParticipants">Project Participants</string>
+    <string name="warning_projectViewNotAllowed">You are not allowed to view this project</string>
+    <string name="title_profileLinkName">Link Name</string>
+    <string name="title_profileLink">Link</string>
+    <string name="title_links">Links</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="title_user">User</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="msg_profile_photo_uploaded">Profile Photo uploaded successfully!</string>
+    <string name="msg_profile_photo_upload_fail">Profile photo not uploaded!</string>
+    <string name="msg_cv_uploaded">Cv Uploaded Successfully!</string>
+    <string name="msg_cv_upload_fail">CV not uploaded!</string>
+    <string name="title_myProjects">My Projects</string>
+    <string name="title_notification">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_mainPage">Main Page</string>
+    <string name="channel_name">notification_channel</string>
+    <string name="channel_description">notification_channel</string>
+    <string name="channel_id">my_notification_channel</string>
+    <string name="title_experience">Experience</string>
+    <string name="project_join_request_accepted">Project join request accepted</string>
+    <string name="error_occurred">Error in Project Request Accept</string>
+    <string name="project_join_request_rejected">Project Join Request Rejected!</string>
+    <string name="msg_notificationNotFound">These areas are clean. There are no notifications.</string>
+    <string name="request_sent">Project Join Request sent to owner!</string>
+    <string name="message_joinRequest">Join Project</string>
+    <string name="title_filteredProjects">Filtered Projects</string>
+    <string name="title_search">Search - \"%s\"</string>
+    <string name="search_users">Users</string>
+    <string name="search_projects">Projects</string>
+    <string name="username_root">cop_root</string>
+    <string name="username_admin">cop_admin</string>
+    <string name="follow">Follow</string>
+    <string name="btn_applicationDeadline">Deadline</string>
+    <string name="enc_shared_pref_name">user_info_pref</string>
+    <string name="notifications_cleared">All notifications are removed</string>
+    <string name="notifications_marked_as_read">All notifications marked as read</string>
+    <string name="btn_markAllAsRead">Mark All as Read</string>
+    <string name="btn_clearAll">Clear All</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="title_connections">Connections</string>
+    <string name="sort_prefix">"Sort: "</string>
+    <string name="remove_tag">Remove Tag</string>
+    <string name="tag_name">Tag Name</string>
+    <string name="cv">CV</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="title_organizator">Organizator: </string>
+    <string name="title_date">Date: </string>
+    <string name="title_department">"Department: "</string>
+    <string name="title_position">Position:</string>
+    <string name="title_userTags">User Tags</string>
+    <string name="msg_course_name_empty">Course name cannot be empty!</string>
+    <string name="msg_course_organization_empty">Organization Name cannot be empty</string>
+    <string name="msg_course_start_date_empty">Start Date and Finish Date cannot be empty</string>
+    <string name="msg_course_date_invalid">Start date must be earlier than Finish Date</string>
+    <string name="msg_course_description_empty">Description cannot be empty</string>
+    <string name="msg_course_date_empty">Dates are cannot be empty.</string>
+    <string name="msg_course_valid">Course is validated</string>
+    <string name="msg_link_title_empty">Link Title cannot be empty</string>
+    <string name="msg_link_empty">Link cannot be empty</string>
+    <string name="msg_link_valid">Link is validated</string>
+    <string name="msg_experience_company_name_empty">Company name cannot be empty!</string>
+    <string name="msg_experience_description_empty">Description cannot be empty</string>
+    <string name="msg_experience_date_empty">dates cannot be empty!</string>
+    <string name="msg_experience_valid">experience validated!</string>
+    <string name="date_invalid">Start date must be earlier than Finish Date</string>
+    <string name="msg_education_school_name_empty">university name cannot be empty!</string>
+    <string name="msg_education_department_empty">department name cannot be empty!</string>
+    <string name="msg_education_date_empty">Dates cannot be empty or blank!</string>
+    <string name="msg_education_valid">Education validated!</string>
+    <string name="msg_education_gpa_empty">Please enter the gpa!</string>
+    <string name="msg_education_gpa_invalid">GPA range: (0.0 to 4.0)</string>
+    <string name="msg_experience_position_empty">Position cannot be empty!</string>
+    <string name="msg_education_not_updated">Education cannot updated!</string>
+    <string name="msg_education_updated">Education updated Succesfully!</string>
+    <string name="msg_experience_not_saved">Experience cannot be saved!</string>
+    <string name="msg_experience_saved">Experience saved successfully!</string>
+    <string name="msg_experience_not_updated">Experience not updated!</string>
+    <string name="msg_experience_updated">Experience updated successfully!</string>
+    <string name="msg_course_not_saved">Course not saved!</string>
+    <string name="msg_course_saved">Course saved successfully!</string>
+    <string name="msg_course_updated">Course updated successfully</string>
+    <string name="msg_course_not_updated">Course not updated</string>
+    <string name="msg_education_saved">Education saved successfully!</string>
+    <string name="msg_about_me_updated">About me updated successfully</string>
+    <string name="msg_about_me_not_updated">About me not updated</string>
+    <string name="msg_education_not_saved">Education not saved</string>
+    <string name="msg_education_deleted">Education deleted successfully</string>
+    <string name="msg_education_not_deleted">Education not deleted</string>
+    <string name="msg_experience_deleted">Experience deleted successfully</string>
+    <string name="msg_experience_not_deleted">Experience not deleted</string>
+    <string name="msg_course_deleted">Course deleted successfully</string>
+    <string name="msg_course_not_deleted">Course not deleted</string>
+    <string name="msg_link_saved">Link saved successfully</string>
+    <string name="msg_link_updated">Link updated successfully</string>
+    <string name="msg_link_not_saved">Link not saved</string>
+    <string name="msg_link_not_updated">Link not updated</string>
+    <string name="msg_blocked_user">Your account blocked!</string>
+    <string name="con_type_Connections">Connections</string>
+    <string name="con_type_pendingConnections">Pending Requests</string>
+    <string name="con_type_blockedConnections">Blocked Connections</string>
+    <string name="msg_not_found_participant">You cannot access project Participants!</string>
+    <string name="msg_participant_removed">Project participant removed successfully!</string>
+    <string name="msg_participant_removed_fail">Project Participant cannot removed!</string>
+    <string name="dialog_title_remove_participant">Are you sure you want to delete?</string>
+    <string name="dialog_text_remove_participant">Are you sure you want to remove this user from the project?</string>
+    <string name="dialog_confirm_remove_participant">Remove</string>
+    <string name="dialog_title_block_connection">Are you sure block connection?</string>
+    <string name="dialog_text_block_connection">Are you sure you want to block this user?</string>
+    <string name="dialog_confirm_block_connection">Block</string>
+    <string name="dialog_title_remove_connection">Are you sure you want to delete this connection?</string>
+    <string name="dialog_text_remove_connection">Are you sure you want to remove this connection?</string>
+    <string name="dialog_confirm_remove_connection">Remove</string>
+    <string name="dialog_title_clear_notifications">Are You Sure You Want to Clear Notifications?</string>
+    <string name="dialog_text_clear_notifications">Are You Sure You Want to Clear All Notifications?</string>
+    <string name="dialog_confirm_clear_notifications">Clear</string>
+    <string name="btn_remove">Remove</string>
+    <string name="dialog_title_remove_course">Are You Sure You Want to Remove the Course?</string>
+    <string name="dialog_text_remove_course">Are You Sure You Want to Remove This Course?</string>
+    <string name="dialog_title_remove_education">Are You Sure You Want to Remove Education?</string>
+    <string name="dialog_text_remove_education">Are You Sure You Want to Remove This Education?</string>
+    <string name="dialog_title_remove_experience">Are You Sure You Want to Remove Experience?</string>
+    <string name="dialog_text_remove_experience">Are You Sure You Want to Remove This Experience?</string>
+    <string name="dialog_title_remove_link">Are You Sure You Want to Remove the Link?</string>
+    <string name="dialog_text_remove_link">Are You Sure You Want to Remove This Link?</string>
+    <string name="msg_link_deleted">Link removed successfully!</string>
+
+
+    <string-array name="array_projectStatus">
+        <item>NOT_STARTED</item>
+        <item>IN_PROGRESS</item>
+        <item>FINISHED</item>
+    </string-array>
+
+
+    <string-array name="array_interviewType">
+        <item>CODE</item>
+        <item>TEST</item>
+        <item>NO_INTERVIEW</item>
+    </string-array>
+
+    <string-array name="array_feedbackTimeRanges">
+        <item>ONE_WEEK</item>
+        <item>TWO_WEEKS</item>
+        <item>ONE_MONTH</item>
+    </string-array>
+
+
+    <string-array name="array_degrees">
+        <item>BACHELOR</item>
+        <item>MASTER</item>
+        <item>PHD</item>
+    </string-array>
+
+    <string-array name="array_projectLevels">
+        <item>ENTRY_LEVEL</item>
+        <item>INTERMEDIATE</item>
+        <item>EXPERT</item>
+    </string-array>
+
+
+    <string-array name="array_professionLevels">
+        <item>Entry_Level</item>
+        <item>Intermediate</item>
+        <item>Expert</item>
+    </string-array>
+
+    <string-array name="array_sortingOptions">
+        <item>Creation Date</item>
+        <item>Start Date</item>
+        <item>Application Deadline</item>
+        <item>Expected Comp. Date</item>
+    </string-array>
+</resources>
